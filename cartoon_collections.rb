@@ -4,7 +4,7 @@ def roll_call_dwarves(array)
   end  
 end
 
-def summon_captain_planet(planeteer_calls)
+def summon_captain_plane(planeteer_calls)
 
 end
 
