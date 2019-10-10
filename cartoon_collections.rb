@@ -2,7 +2,7 @@ def roll_call_dwarves(array)
  counter = 1 
   while counter < array.length 
   yield(array[counter])
-  
+  puts array[counter].each_with_index
  end 
 end
 
