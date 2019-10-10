@@ -2,6 +2,7 @@ def roll_call_dwarves(array)
  counter = 1 
   while counter < array.length 
   yield(array[counter])
+ end 
 end
 
 def summon_captain_planet# code an argument here
